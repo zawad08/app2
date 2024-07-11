@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\app2\resources\views/components/application-logo.blade.php ENDPATH**/ ?>
